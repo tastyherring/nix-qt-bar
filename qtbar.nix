@@ -16,4 +16,3 @@ stdenv.mkDerivation rec {
 
   buildInputs = [ qt5.qtbase ];
 }
-
